@@ -1,4 +1,4 @@
-此Nginx代理管理器是基于**[ nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)**的汉化版，更多高级设置请移至原作者：[传送门]()
+此Nginx代理管理器是基于[ nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)的汉化版，有汉化不对的地方，请在issues留言，以助于我改正。更多高级设置请移至原作者：[传送门](https://nginxproxymanager.com/)
 
 ## 快速设置
 
